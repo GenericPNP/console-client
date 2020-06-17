@@ -1,5 +1,0 @@
-Connection has been lost
-Server is restarting
-Server is full
-Too many people
-Afk
